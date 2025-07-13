@@ -1,5 +1,5 @@
 ## Instruction
-First, clone the repository git@github.com:alamincse/food-delivery.git into your local server. Then, open the terminal, navigate to the project folder, and follow the commands below. Make sure to create a new MySQL database for the database connection.
+First, clone the repository git@github.com:alamincse/food-delivery-app.git into your local server. Then, open the terminal, navigate to the project folder, and follow the commands below. Make sure to create a new MySQL database for the database connection.
 
 - **Ensure your database connection is correctly configured** (in the project's .env file)
 - **composer install**
