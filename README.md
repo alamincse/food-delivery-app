@@ -32,4 +32,3 @@ First, clone the repository git@github.com:alamincse/food-delivery.git into your
 ## Author
 
 Al-Amin Sarker
->>>>>>> 9dcfeca (feat: add food delivery app)
